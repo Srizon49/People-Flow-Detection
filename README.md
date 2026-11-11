@@ -53,4 +53,4 @@ The project demonstrates the practical application of computer vision techniques
 
 ## Author
 
-Ashraful Haque
+Ashraful Haque Srizon
